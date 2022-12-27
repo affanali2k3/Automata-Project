@@ -1,0 +1,62 @@
+Line -> 1   Token -> #include   (Header file)
+Line -> 2   Token -> #include   (Header file)
+Line -> 3   Token -> #include   (Header file)
+Line -> 4   Token -> using    (Reserved Keyword)
+Line -> 4   Token -> namespace    (Reserved Keyword)
+Line -> 4   Token -> ;   (Semicolom)
+Line -> 6   Token -> class    (Reserved Keyword)
+Line -> 7   Token -> {   (Curly braces)
+Line -> 8   Token -> private:   (Reserved Keyword)
+Line -> 9   Token -> int count;   (User defined variables)
+Line -> 10   Token -> string name;   (User defined variables)
+Line -> 11   Token -> int array[5][2];   (Array)
+Line -> 12   Token -> int **twoDArray;   (Pointer)
+Line -> 13   Token -> protected:   (Reserved Keyword)
+Line -> 14   Token -> int childCount;   (User defined variables)
+Line -> 15   Token -> public:   (Reserved Keyword)
+Line -> 16   Token -> void    (Reserved Keyword)
+Line -> 16   Token -> (   (Paranthesis)
+Line -> 16   Token -> int    (Reserved Keyword)
+Line -> 16   Token -> int    (Reserved Keyword)
+Line -> 16   Token -> )   (Paranthesis)
+Line -> 17   Token -> {   (Curly braces)
+Line -> 18   Token -> =   (Operators)
+Line -> 18   Token -> ;   (Semicolom)
+Line -> 19   Token -> [   (Square braces)
+Line -> 19   Token -> ]   (Square braces)
+Line -> 19   Token -> [   (Square braces)
+Line -> 19   Token -> ]   (Square braces)
+Line -> 19   Token -> =   (Operators)
+Line -> 19   Token -> ;   (Semicolom)
+Line -> 20   Token -> =   (Operators)
+Line -> 20   Token -> "This is string"   (String)
+Line -> 20   Token -> ;   (Semicolom)
+Line -> 21   Token -> }   (Curly braces)
+Line -> 23   Token -> }   (Curly braces)
+Line -> 23   Token -> ;   (Semicolom)
+Line -> 25   Token -> int    (Reserved Keyword)
+Line -> 25   Token -> (   (Paranthesis)
+Line -> 25   Token -> )   (Paranthesis)
+Line -> 26   Token -> {   (Curly braces)
+Line -> 27   Token -> char *ptr;   (Pointer)
+Line -> 28   Token -> int userArray[5];   (Array)
+Line -> 29   Token -> bool check;   (User defined variables)
+Line -> 30   Token -> return    (Reserved Keyword)
+Line -> 30   Token -> ;   (Semicolom)
+Line -> 31   Token -> }   (Curly braces)
+
+reservedKeyWordsCount   in the given input - 19
+
+variables in the given input - 4
+
+semiColons in the given input - 14
+
+operators in the given input - 3
+
+headerFiles in the given input - 3
+
+Pointers in the given input - 2
+
+Arrays in the given input - 2
+
+String in the given input - 1
